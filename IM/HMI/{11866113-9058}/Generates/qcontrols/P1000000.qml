@@ -9,10 +9,10 @@ IGuiPage
 	height: 480
 	IGuiButton
 	{
-		id: q486539297
-		objId: 486539297
-		x: 29
-		y: 143
+		id: q486539499
+		objId: 486539499
+		x: 39
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -43,10 +43,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539298
-		objId: 486539298
-		x: 63
-		y: 143
+		id: q486539500
+		objId: 486539500
+		x: 73
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -77,10 +77,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539299
-		objId: 486539299
-		x: 97
-		y: 143
+		id: q486539501
+		objId: 486539501
+		x: 107
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -111,10 +111,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539300
-		objId: 486539300
-		x: 131
-		y: 143
+		id: q486539502
+		objId: 486539502
+		x: 141
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -145,10 +145,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539301
-		objId: 486539301
-		x: 165
-		y: 143
+		id: q486539503
+		objId: 486539503
+		x: 175
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -179,10 +179,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539302
-		objId: 486539302
-		x: 199
-		y: 143
+		id: q486539504
+		objId: 486539504
+		x: 209
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -213,10 +213,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539303
-		objId: 486539303
-		x: 233
-		y: 143
+		id: q486539505
+		objId: 486539505
+		x: 243
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -247,10 +247,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539304
-		objId: 486539304
-		x: 267
-		y: 143
+		id: q486539506
+		objId: 486539506
+		x: 277
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -281,10 +281,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539305
-		objId: 486539305
-		x: 301
-		y: 143
+		id: q486539507
+		objId: 486539507
+		x: 311
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -315,10 +315,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539306
-		objId: 486539306
-		x: 335
-		y: 143
+		id: q486539508
+		objId: 486539508
+		x: 345
+		y: 130
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -349,10 +349,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539307
-		objId: 486539307
-		x: 29
-		y: 176
+		id: q486539509
+		objId: 486539509
+		x: 39
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -383,10 +383,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539308
-		objId: 486539308
-		x: 63
-		y: 176
+		id: q486539510
+		objId: 486539510
+		x: 73
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -417,10 +417,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539309
-		objId: 486539309
-		x: 97
-		y: 176
+		id: q486539511
+		objId: 486539511
+		x: 107
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -451,10 +451,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539310
-		objId: 486539310
-		x: 131
-		y: 176
+		id: q486539512
+		objId: 486539512
+		x: 141
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -485,10 +485,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539311
-		objId: 486539311
-		x: 165
-		y: 176
+		id: q486539513
+		objId: 486539513
+		x: 175
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -519,10 +519,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539312
-		objId: 486539312
-		x: 199
-		y: 176
+		id: q486539514
+		objId: 486539514
+		x: 209
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -553,10 +553,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539313
-		objId: 486539313
-		x: 233
-		y: 176
+		id: q486539515
+		objId: 486539515
+		x: 243
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -587,10 +587,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539314
-		objId: 486539314
-		x: 267
-		y: 176
+		id: q486539516
+		objId: 486539516
+		x: 277
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -621,10 +621,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539315
-		objId: 486539315
-		x: 301
-		y: 176
+		id: q486539517
+		objId: 486539517
+		x: 311
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -655,10 +655,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539316
-		objId: 486539316
-		x: 335
-		y: 176
+		id: q486539518
+		objId: 486539518
+		x: 345
+		y: 163
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -689,10 +689,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539317
-		objId: 486539317
-		x: 29
-		y: 209
+		id: q486539519
+		objId: 486539519
+		x: 39
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -723,10 +723,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539318
-		objId: 486539318
-		x: 63
-		y: 209
+		id: q486539520
+		objId: 486539520
+		x: 73
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -757,10 +757,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539319
-		objId: 486539319
-		x: 97
-		y: 209
+		id: q486539521
+		objId: 486539521
+		x: 107
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -791,10 +791,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539320
-		objId: 486539320
-		x: 131
-		y: 209
+		id: q486539522
+		objId: 486539522
+		x: 141
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -825,10 +825,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539321
-		objId: 486539321
-		x: 165
-		y: 209
+		id: q486539523
+		objId: 486539523
+		x: 175
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -859,10 +859,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539322
-		objId: 486539322
-		x: 199
-		y: 209
+		id: q486539524
+		objId: 486539524
+		x: 209
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -893,10 +893,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539323
-		objId: 486539323
-		x: 233
-		y: 209
+		id: q486539525
+		objId: 486539525
+		x: 243
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -927,10 +927,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539324
-		objId: 486539324
-		x: 267
-		y: 209
+		id: q486539526
+		objId: 486539526
+		x: 277
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -961,10 +961,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539325
-		objId: 486539325
-		x: 301
-		y: 209
+		id: q486539527
+		objId: 486539527
+		x: 311
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -995,10 +995,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539326
-		objId: 486539326
-		x: 335
-		y: 209
+		id: q486539528
+		objId: 486539528
+		x: 345
+		y: 196
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1029,10 +1029,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539327
-		objId: 486539327
-		x: 29
-		y: 242
+		id: q486539529
+		objId: 486539529
+		x: 39
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1063,10 +1063,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539328
-		objId: 486539328
-		x: 63
-		y: 242
+		id: q486539530
+		objId: 486539530
+		x: 73
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1097,10 +1097,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539329
-		objId: 486539329
-		x: 97
-		y: 242
+		id: q486539531
+		objId: 486539531
+		x: 107
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1131,10 +1131,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539330
-		objId: 486539330
-		x: 131
-		y: 242
+		id: q486539532
+		objId: 486539532
+		x: 141
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1165,10 +1165,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539331
-		objId: 486539331
-		x: 165
-		y: 242
+		id: q486539533
+		objId: 486539533
+		x: 175
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1199,10 +1199,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539332
-		objId: 486539332
-		x: 199
-		y: 242
+		id: q486539534
+		objId: 486539534
+		x: 209
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1233,10 +1233,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539333
-		objId: 486539333
-		x: 233
-		y: 242
+		id: q486539535
+		objId: 486539535
+		x: 243
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1267,10 +1267,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539334
-		objId: 486539334
-		x: 267
-		y: 242
+		id: q486539536
+		objId: 486539536
+		x: 277
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1301,10 +1301,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539335
-		objId: 486539335
-		x: 301
-		y: 242
+		id: q486539537
+		objId: 486539537
+		x: 311
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1335,10 +1335,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539336
-		objId: 486539336
-		x: 335
-		y: 243
+		id: q486539538
+		objId: 486539538
+		x: 345
+		y: 229
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1369,10 +1369,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539337
-		objId: 486539337
-		x: 29
-		y: 275
+		id: q486539539
+		objId: 486539539
+		x: 39
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1403,10 +1403,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539338
-		objId: 486539338
-		x: 63
-		y: 275
+		id: q486539540
+		objId: 486539540
+		x: 73
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1437,10 +1437,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539339
-		objId: 486539339
-		x: 97
-		y: 275
+		id: q486539541
+		objId: 486539541
+		x: 107
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1471,10 +1471,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539340
-		objId: 486539340
-		x: 131
-		y: 275
+		id: q486539542
+		objId: 486539542
+		x: 141
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1505,10 +1505,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539341
-		objId: 486539341
-		x: 165
-		y: 275
+		id: q486539543
+		objId: 486539543
+		x: 175
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1539,10 +1539,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539342
-		objId: 486539342
-		x: 199
-		y: 275
+		id: q486539544
+		objId: 486539544
+		x: 209
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1573,10 +1573,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539343
-		objId: 486539343
-		x: 233
-		y: 275
+		id: q486539545
+		objId: 486539545
+		x: 243
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1607,10 +1607,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539344
-		objId: 486539344
-		x: 267
-		y: 275
+		id: q486539546
+		objId: 486539546
+		x: 277
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1641,10 +1641,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539345
-		objId: 486539345
-		x: 301
-		y: 275
+		id: q486539547
+		objId: 486539547
+		x: 311
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1675,10 +1675,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539346
-		objId: 486539346
-		x: 335
-		y: 275
+		id: q486539548
+		objId: 486539548
+		x: 345
+		y: 262
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1709,10 +1709,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539347
-		objId: 486539347
-		x: 29
-		y: 308
+		id: q486539549
+		objId: 486539549
+		x: 39
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1743,10 +1743,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539348
-		objId: 486539348
-		x: 63
-		y: 308
+		id: q486539550
+		objId: 486539550
+		x: 73
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1777,10 +1777,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539349
-		objId: 486539349
-		x: 97
-		y: 308
+		id: q486539551
+		objId: 486539551
+		x: 107
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1811,10 +1811,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539350
-		objId: 486539350
-		x: 131
-		y: 308
+		id: q486539552
+		objId: 486539552
+		x: 141
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1845,10 +1845,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539351
-		objId: 486539351
-		x: 165
-		y: 308
+		id: q486539553
+		objId: 486539553
+		x: 175
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1879,10 +1879,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539352
-		objId: 486539352
-		x: 199
-		y: 308
+		id: q486539554
+		objId: 486539554
+		x: 209
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1913,10 +1913,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539353
-		objId: 486539353
-		x: 233
-		y: 308
+		id: q486539555
+		objId: 486539555
+		x: 243
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1947,10 +1947,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539354
-		objId: 486539354
-		x: 267
-		y: 308
+		id: q486539556
+		objId: 486539556
+		x: 277
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -1981,10 +1981,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539355
-		objId: 486539355
-		x: 301
-		y: 308
+		id: q486539557
+		objId: 486539557
+		x: 311
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2015,10 +2015,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539356
-		objId: 486539356
-		x: 335
-		y: 308
+		id: q486539558
+		objId: 486539558
+		x: 345
+		y: 295
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2049,10 +2049,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539357
-		objId: 486539357
-		x: 29
-		y: 341
+		id: q486539559
+		objId: 486539559
+		x: 39
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2083,10 +2083,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539358
-		objId: 486539358
-		x: 63
-		y: 341
+		id: q486539560
+		objId: 486539560
+		x: 73
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2117,10 +2117,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539359
-		objId: 486539359
-		x: 97
-		y: 341
+		id: q486539561
+		objId: 486539561
+		x: 107
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2151,10 +2151,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539360
-		objId: 486539360
-		x: 131
-		y: 341
+		id: q486539562
+		objId: 486539562
+		x: 141
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2185,10 +2185,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539361
-		objId: 486539361
-		x: 165
-		y: 341
+		id: q486539563
+		objId: 486539563
+		x: 175
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2219,10 +2219,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539362
-		objId: 486539362
-		x: 199
-		y: 341
+		id: q486539564
+		objId: 486539564
+		x: 209
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2253,10 +2253,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539363
-		objId: 486539363
-		x: 233
-		y: 341
+		id: q486539565
+		objId: 486539565
+		x: 243
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2287,10 +2287,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539364
-		objId: 486539364
-		x: 267
-		y: 341
+		id: q486539566
+		objId: 486539566
+		x: 277
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2321,10 +2321,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539365
-		objId: 486539365
-		x: 301
-		y: 341
+		id: q486539567
+		objId: 486539567
+		x: 311
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2355,10 +2355,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539366
-		objId: 486539366
-		x: 335
-		y: 341
+		id: q486539568
+		objId: 486539568
+		x: 345
+		y: 328
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2389,10 +2389,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539367
-		objId: 486539367
-		x: 29
-		y: 374
+		id: q486539569
+		objId: 486539569
+		x: 39
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2423,10 +2423,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539368
-		objId: 486539368
-		x: 63
-		y: 374
+		id: q486539570
+		objId: 486539570
+		x: 73
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2457,10 +2457,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539369
-		objId: 486539369
-		x: 97
-		y: 374
+		id: q486539571
+		objId: 486539571
+		x: 107
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2491,10 +2491,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539370
-		objId: 486539370
-		x: 131
-		y: 374
+		id: q486539572
+		objId: 486539572
+		x: 141
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2525,10 +2525,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539371
-		objId: 486539371
-		x: 165
-		y: 374
+		id: q486539573
+		objId: 486539573
+		x: 175
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2559,10 +2559,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539372
-		objId: 486539372
-		x: 199
-		y: 374
+		id: q486539574
+		objId: 486539574
+		x: 209
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2593,10 +2593,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539373
-		objId: 486539373
-		x: 233
-		y: 374
+		id: q486539575
+		objId: 486539575
+		x: 243
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2627,10 +2627,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539374
-		objId: 486539374
-		x: 267
-		y: 374
+		id: q486539576
+		objId: 486539576
+		x: 277
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2661,10 +2661,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539375
-		objId: 486539375
-		x: 301
-		y: 374
+		id: q486539577
+		objId: 486539577
+		x: 311
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2695,10 +2695,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539376
-		objId: 486539376
-		x: 335
-		y: 374
+		id: q486539578
+		objId: 486539578
+		x: 345
+		y: 361
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2729,10 +2729,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539377
-		objId: 486539377
-		x: 29
-		y: 407
+		id: q486539579
+		objId: 486539579
+		x: 39
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2763,10 +2763,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539378
-		objId: 486539378
-		x: 63
-		y: 407
+		id: q486539580
+		objId: 486539580
+		x: 73
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2797,10 +2797,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539379
-		objId: 486539379
-		x: 97
-		y: 407
+		id: q486539581
+		objId: 486539581
+		x: 107
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2831,10 +2831,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539380
-		objId: 486539380
-		x: 131
-		y: 407
+		id: q486539582
+		objId: 486539582
+		x: 141
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2865,10 +2865,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539381
-		objId: 486539381
-		x: 165
-		y: 407
+		id: q486539583
+		objId: 486539583
+		x: 175
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2899,10 +2899,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539382
-		objId: 486539382
-		x: 199
-		y: 407
+		id: q486539584
+		objId: 486539584
+		x: 209
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2933,10 +2933,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539383
-		objId: 486539383
-		x: 233
-		y: 407
+		id: q486539585
+		objId: 486539585
+		x: 243
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -2967,10 +2967,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539384
-		objId: 486539384
-		x: 267
-		y: 407
+		id: q486539586
+		objId: 486539586
+		x: 277
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3001,10 +3001,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539385
-		objId: 486539385
-		x: 301
-		y: 407
+		id: q486539587
+		objId: 486539587
+		x: 311
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3035,10 +3035,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539386
-		objId: 486539386
-		x: 335
-		y: 407
+		id: q486539588
+		objId: 486539588
+		x: 345
+		y: 394
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3069,10 +3069,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539387
-		objId: 486539387
-		x: 29
-		y: 440
+		id: q486539589
+		objId: 486539589
+		x: 39
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3103,10 +3103,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539388
-		objId: 486539388
-		x: 63
-		y: 440
+		id: q486539590
+		objId: 486539590
+		x: 73
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3137,10 +3137,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539389
-		objId: 486539389
-		x: 97
-		y: 440
+		id: q486539591
+		objId: 486539591
+		x: 107
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3171,10 +3171,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539390
-		objId: 486539390
-		x: 131
-		y: 440
+		id: q486539592
+		objId: 486539592
+		x: 141
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3205,10 +3205,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539391
-		objId: 486539391
-		x: 165
-		y: 440
+		id: q486539593
+		objId: 486539593
+		x: 175
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3239,10 +3239,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539392
-		objId: 486539392
-		x: 199
-		y: 440
+		id: q486539594
+		objId: 486539594
+		x: 209
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3273,10 +3273,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539393
-		objId: 486539393
-		x: 233
-		y: 440
+		id: q486539595
+		objId: 486539595
+		x: 243
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3307,10 +3307,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539394
-		objId: 486539394
-		x: 267
-		y: 440
+		id: q486539596
+		objId: 486539596
+		x: 277
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3341,10 +3341,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539395
-		objId: 486539395
-		x: 301
-		y: 440
+		id: q486539597
+		objId: 486539597
+		x: 311
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3375,10 +3375,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539396
-		objId: 486539396
-		x: 335
-		y: 440
+		id: q486539598
+		objId: 486539598
+		x: 345
+		y: 427
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -3409,10 +3409,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435465
-		objId: 268435465
-		x: 5
-		y: 143
+		id: q268435509
+		objId: 268435509
+		x: 15
+		y: 130
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3441,10 +3441,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435466
-		objId: 268435466
-		x: 5
-		y: 176
+		id: q268435510
+		objId: 268435510
+		x: 15
+		y: 163
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3473,10 +3473,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435467
-		objId: 268435467
-		x: 5
-		y: 209
+		id: q268435511
+		objId: 268435511
+		x: 15
+		y: 196
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3505,10 +3505,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435468
-		objId: 268435468
-		x: 5
-		y: 242
+		id: q268435512
+		objId: 268435512
+		x: 15
+		y: 229
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3537,10 +3537,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435469
-		objId: 268435469
-		x: 5
-		y: 275
+		id: q268435513
+		objId: 268435513
+		x: 15
+		y: 262
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3569,10 +3569,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435470
-		objId: 268435470
-		x: 5
-		y: 308
+		id: q268435514
+		objId: 268435514
+		x: 15
+		y: 295
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3601,10 +3601,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435471
-		objId: 268435471
-		x: 5
-		y: 341
+		id: q268435515
+		objId: 268435515
+		x: 15
+		y: 328
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3633,10 +3633,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435472
-		objId: 268435472
-		x: 5
-		y: 374
+		id: q268435516
+		objId: 268435516
+		x: 15
+		y: 361
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3665,10 +3665,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435473
-		objId: 268435473
-		x: 5
-		y: 407
+		id: q268435517
+		objId: 268435517
+		x: 15
+		y: 394
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3697,10 +3697,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435474
-		objId: 268435474
-		x: 5
-		y: 440
+		id: q268435518
+		objId: 268435518
+		x: 15
+		y: 427
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3729,10 +3729,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435475
-		objId: 268435475
-		x: 36
-		y: 114
+		id: q268435519
+		objId: 268435519
+		x: 46
+		y: 101
 		width: 17
 		height: 23
 		qm_FillRectWidth: 17
@@ -3761,10 +3761,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435476
-		objId: 268435476
-		x: 70
-		y: 114
+		id: q268435520
+		objId: 268435520
+		x: 80
+		y: 101
 		width: 16
 		height: 23
 		qm_FillRectWidth: 16
@@ -3793,10 +3793,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435477
-		objId: 268435477
-		x: 104
-		y: 114
+		id: q268435521
+		objId: 268435521
+		x: 114
+		y: 101
 		width: 16
 		height: 23
 		qm_FillRectWidth: 16
@@ -3825,10 +3825,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435478
-		objId: 268435478
-		x: 138
-		y: 114
+		id: q268435522
+		objId: 268435522
+		x: 148
+		y: 101
 		width: 17
 		height: 23
 		qm_FillRectWidth: 17
@@ -3857,10 +3857,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435479
-		objId: 268435479
-		x: 172
-		y: 114
+		id: q268435523
+		objId: 268435523
+		x: 182
+		y: 101
 		width: 15
 		height: 23
 		qm_FillRectWidth: 15
@@ -3889,10 +3889,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435480
-		objId: 268435480
-		x: 206
-		y: 114
+		id: q268435524
+		objId: 268435524
+		x: 216
+		y: 101
 		width: 14
 		height: 23
 		qm_FillRectWidth: 14
@@ -3921,10 +3921,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435481
-		objId: 268435481
-		x: 240
-		y: 114
+		id: q268435525
+		objId: 268435525
+		x: 250
+		y: 101
 		width: 17
 		height: 23
 		qm_FillRectWidth: 17
@@ -3953,10 +3953,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435482
-		objId: 268435482
-		x: 274
-		y: 114
+		id: q268435526
+		objId: 268435526
+		x: 284
+		y: 101
 		width: 17
 		height: 23
 		qm_FillRectWidth: 17
@@ -3985,10 +3985,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435483
-		objId: 268435483
-		x: 308
-		y: 114
+		id: q268435527
+		objId: 268435527
+		x: 318
+		y: 101
 		width: 12
 		height: 23
 		qm_FillRectWidth: 12
@@ -4017,4050 +4017,10 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435484
-		objId: 268435484
-		x: 342
-		y: 114
-		width: 13
-		height: 23
-		qm_FillRectWidth: 13
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiButton
-	{
-		id: q486539397
-		objId: 486539397
-		x: 453
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 39
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539398
-		objId: 486539398
-		x: 487
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539399
-		objId: 486539399
-		x: 521
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539400
-		objId: 486539400
-		x: 555
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539401
-		objId: 486539401
-		x: 589
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539402
-		objId: 486539402
-		x: 623
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539403
-		objId: 486539403
-		x: 657
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539404
-		objId: 486539404
-		x: 691
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539405
-		objId: 486539405
-		x: 725
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539406
-		objId: 486539406
-		x: 759
-		y: 143
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539407
-		objId: 486539407
-		x: 453
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539408
-		objId: 486539408
-		x: 487
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539409
-		objId: 486539409
-		x: 521
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539410
-		objId: 486539410
-		x: 555
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539411
-		objId: 486539411
-		x: 589
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539412
-		objId: 486539412
-		x: 623
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539413
-		objId: 486539413
-		x: 657
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539414
-		objId: 486539414
-		x: 691
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539415
-		objId: 486539415
-		x: 725
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539416
-		objId: 486539416
-		x: 759
-		y: 176
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539417
-		objId: 486539417
-		x: 453
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539418
-		objId: 486539418
-		x: 487
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539419
-		objId: 486539419
-		x: 521
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539420
-		objId: 486539420
-		x: 555
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539421
-		objId: 486539421
-		x: 589
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539422
-		objId: 486539422
-		x: 623
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539423
-		objId: 486539423
-		x: 657
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539424
-		objId: 486539424
-		x: 691
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539425
-		objId: 486539425
-		x: 725
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539426
-		objId: 486539426
-		x: 759
-		y: 209
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539427
-		objId: 486539427
-		x: 453
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539428
-		objId: 486539428
-		x: 487
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539429
-		objId: 486539429
-		x: 521
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539430
-		objId: 486539430
-		x: 555
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539431
-		objId: 486539431
-		x: 589
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539432
-		objId: 486539432
-		x: 623
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539433
-		objId: 486539433
-		x: 657
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539434
-		objId: 486539434
-		x: 691
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539435
-		objId: 486539435
-		x: 725
-		y: 242
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539436
-		objId: 486539436
-		x: 759
-		y: 243
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539437
-		objId: 486539437
-		x: 453
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539438
-		objId: 486539438
-		x: 487
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539439
-		objId: 486539439
-		x: 521
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539440
-		objId: 486539440
-		x: 555
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539441
-		objId: 486539441
-		x: 589
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539442
-		objId: 486539442
-		x: 623
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539443
-		objId: 486539443
-		x: 657
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539444
-		objId: 486539444
-		x: 691
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539445
-		objId: 486539445
-		x: 725
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539446
-		objId: 486539446
-		x: 759
-		y: 275
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539447
-		objId: 486539447
-		x: 453
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539448
-		objId: 486539448
-		x: 487
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539449
-		objId: 486539449
-		x: 521
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539450
-		objId: 486539450
-		x: 555
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539451
-		objId: 486539451
-		x: 589
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539452
-		objId: 486539452
-		x: 623
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539453
-		objId: 486539453
-		x: 657
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539454
-		objId: 486539454
-		x: 691
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539455
-		objId: 486539455
-		x: 725
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539456
-		objId: 486539456
-		x: 759
-		y: 308
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539457
-		objId: 486539457
-		x: 453
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539458
-		objId: 486539458
-		x: 487
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539459
-		objId: 486539459
-		x: 521
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539460
-		objId: 486539460
-		x: 555
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539461
-		objId: 486539461
-		x: 589
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539462
-		objId: 486539462
-		x: 623
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539463
-		objId: 486539463
-		x: 657
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539464
-		objId: 486539464
-		x: 691
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539465
-		objId: 486539465
-		x: 725
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539466
-		objId: 486539466
-		x: 759
-		y: 341
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539467
-		objId: 486539467
-		x: 453
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539468
-		objId: 486539468
-		x: 487
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539469
-		objId: 486539469
-		x: 521
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539470
-		objId: 486539470
-		x: 555
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539471
-		objId: 486539471
-		x: 589
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539472
-		objId: 486539472
-		x: 623
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539473
-		objId: 486539473
-		x: 657
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539474
-		objId: 486539474
-		x: 691
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539475
-		objId: 486539475
-		x: 725
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539476
-		objId: 486539476
-		x: 759
-		y: 374
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539477
-		objId: 486539477
-		x: 453
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539478
-		objId: 486539478
-		x: 487
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539479
-		objId: 486539479
-		x: 521
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539480
-		objId: 486539480
-		x: 555
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539481
-		objId: 486539481
-		x: 589
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539482
-		objId: 486539482
-		x: 623
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539483
-		objId: 486539483
-		x: 657
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539484
-		objId: 486539484
-		x: 691
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539485
-		objId: 486539485
-		x: 725
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539486
-		objId: 486539486
-		x: 759
-		y: 407
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539487
-		objId: 486539487
-		x: 453
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539488
-		objId: 486539488
-		x: 487
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539489
-		objId: 486539489
-		x: 521
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539490
-		objId: 486539490
-		x: 555
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539491
-		objId: 486539491
-		x: 589
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539492
-		objId: 486539492
-		x: 623
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539493
-		objId: 486539493
-		x: 657
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539494
-		objId: 486539494
-		x: 691
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539495
-		objId: 486539495
-		x: 725
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539496
-		objId: 486539496
-		x: 759
-		y: 440
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiTextField
-	{
-		id: q268435485
-		objId: 268435485
-		x: 429
-		y: 143
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435486
-		objId: 268435486
-		x: 429
-		y: 176
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435487
-		objId: 268435487
-		x: 429
-		y: 209
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435488
-		objId: 268435488
-		x: 429
-		y: 242
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435489
-		objId: 268435489
-		x: 429
-		y: 275
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435490
-		objId: 268435490
-		x: 429
-		y: 308
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435491
-		objId: 268435491
-		x: 429
-		y: 341
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435492
-		objId: 268435492
-		x: 429
-		y: 374
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435493
-		objId: 268435493
-		x: 429
-		y: 407
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435494
-		objId: 268435494
-		x: 429
-		y: 440
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435495
-		objId: 268435495
-		x: 460
-		y: 114
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435496
-		objId: 268435496
-		x: 494
-		y: 114
-		width: 16
-		height: 23
-		qm_FillRectWidth: 16
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435497
-		objId: 268435497
-		x: 528
-		y: 114
-		width: 16
-		height: 23
-		qm_FillRectWidth: 16
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435498
-		objId: 268435498
-		x: 562
-		y: 114
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435499
-		objId: 268435499
-		x: 596
-		y: 114
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435500
-		objId: 268435500
-		x: 630
-		y: 114
-		width: 14
-		height: 23
-		qm_FillRectWidth: 14
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435501
-		objId: 268435501
-		x: 664
-		y: 114
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435502
-		objId: 268435502
-		x: 698
-		y: 114
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435503
-		objId: 268435503
-		x: 732
-		y: 114
-		width: 12
-		height: 23
-		qm_FillRectWidth: 12
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435504
-		objId: 268435504
-		x: 766
-		y: 114
+		id: q268435528
+		objId: 268435528
+		x: 352
+		y: 101
 		width: 13
 		height: 23
 		qm_FillRectWidth: 13
@@ -8089,13 +4049,13 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435505
-		objId: 268435505
-		x: 165
-		y: 75
-		width: 72
+		id: q268435529
+		objId: 268435529
+		x: 296
+		y: 36
+		width: 170
 		height: 23
-		qm_FillRectWidth: 72
+		qm_FillRectWidth: 170
 		qm_FillRectHeight: 23
 		qm_FontSize: 12
 		qm_FontFamilyName: "Tahoma"
@@ -8119,124 +4079,49 @@ IGuiPage
 		qm_MarginBottom: 2
 		qm_MarginTop: 2
 	}
-	IGuiTextField
+	IGuiSwitch
 	{
-		id: q268435506
-		objId: 268435506
-		x: 596
-		y: 75
-		width: 72
-		height: 23
-		qm_FillRectWidth: 72
-		qm_FillRectHeight: 23
+		id: q352321536
+		objId: 352321536
+		x: 423
+		y: 352
+		width: 131
+		height: 32
+		qm_FillRectWidth: 130
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 40
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
 		qm_FontSize: 12
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435507
-		objId: 268435507
-		x: 392
-		y: 32
-		width: 31
-		height: 23
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiLine
-	{
-		id: q671088648
-		objId: 671088648
-		qm_LineWidth: 9
-		qm_BorderStyle: 0
-		qm_TextColor: "#ff0000ff"
-		qm_LineStartArrow: 0
-		qm_LineEndArrow: 0
-		qm_LineEndsShape: 0
-		qm_FillColor: "#ffffffff"
-		qm_FillStyle: 1
-	}
-	IGuiTextField
-	{
-		id: q268435508
-		objId: 268435508
-		x: 355
-		y: 75
-		width: 54
-		height: 23
-		qm_FillRectWidth: 54
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 38
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
 	}
 	IGuiButton
 	{
-		id: q486539497
-		objId: 486539497
-		x: 593
-		y: 23
-		width: 96
+		id: q486539599
+		objId: 486539599
+		x: 423
+		y: 131
+		width: 134
 		height: 32
-		qm_FillRectWidth: 95
+		qm_FillRectWidth: 133
 		qm_FillRectHeight: 31
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
@@ -8264,13 +4149,183 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539498
-		objId: 486539498
-		x: 695
-		y: 23
-		width: 96
+		id: q486539600
+		objId: 486539600
+		x: 424
+		y: 171
+		width: 100
 		height: 32
-		qm_FillRectWidth: 95
+		qm_FillRectWidth: 99
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 36
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiButton
+	{
+		id: q486539601
+		objId: 486539601
+		x: 424
+		y: 213
+		width: 66
+		height: 32
+		qm_FillRectWidth: 65
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 36
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiButton
+	{
+		id: q486539602
+		objId: 486539602
+		x: 424
+		y: 252
+		width: 32
+		height: 32
+		qm_FillRectWidth: 31
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 36
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiButton
+	{
+		id: q486539603
+		objId: 486539603
+		x: 623
+		y: 131
+		width: 132
+		height: 32
+		qm_FillRectWidth: 131
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 36
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiSwitch
+	{
+		id: q352321537
+		objId: 352321537
+		x: 623
+		y: 427
+		width: 130
+		height: 32
+		qm_FillRectWidth: 129
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 40
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiButton
+	{
+		id: q486539604
+		objId: 486539604
+		x: 623
+		y: 171
+		width: 133
+		height: 32
+		qm_FillRectWidth: 132
 		qm_FillRectHeight: 31
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
