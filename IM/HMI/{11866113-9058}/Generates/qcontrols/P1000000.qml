@@ -4083,12 +4083,12 @@ IGuiPage
 	{
 		id: q352321536
 		objId: 352321536
-		x: 423
-		y: 352
+		x: 624
+		y: 243
 		width: 131
-		height: 32
+		height: 41
 		qm_FillRectWidth: 130
-		qm_FillRectHeight: 31
+		qm_FillRectHeight: 40
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
@@ -4253,12 +4253,12 @@ IGuiPage
 	{
 		id: q486539603
 		objId: 486539603
-		x: 623
+		x: 591
 		y: 131
-		width: 132
-		height: 32
-		qm_FillRectWidth: 131
-		qm_FillRectHeight: 31
+		width: 164
+		height: 46
+		qm_FillRectWidth: 163
+		qm_FillRectHeight: 45
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
@@ -4287,51 +4287,17 @@ IGuiPage
 	{
 		id: q352321537
 		objId: 352321537
-		x: 623
-		y: 427
-		width: 130
-		height: 32
-		qm_FillRectWidth: 129
-		qm_FillRectHeight: 31
+		x: 575
+		y: 415
+		width: 178
+		height: 44
+		qm_FillRectWidth: 177
+		qm_FillRectHeight: 43
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
 		qm_ImageID: 40
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539604
-		objId: 486539604
-		x: 623
-		y: 171
-		width: 133
-		height: 32
-		qm_FillRectWidth: 132
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 36
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
