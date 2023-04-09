@@ -38,8 +38,8 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435463
-		objId: 268435463
+		id: q268435484
+		objId: 268435484
 		x: 92
 		y: 103
 		width: 100
@@ -68,7 +68,7 @@ IGuiDialogView
 		qm_MarginTop: 1
 		Component.onCompleted:
 		{
-			proxy.initProxy(q268435463,268435463)
+			proxy.initProxy(q268435484,268435484)
 		}
 	}
 	IGuiIOField
@@ -111,8 +111,8 @@ IGuiDialogView
 	}
 	IGuiTextField
 	{
-		id: q268435464
-		objId: 268435464
+		id: q268435485
+		objId: 268435485
 		x: 92
 		y: 137
 		width: 100
@@ -141,7 +141,7 @@ IGuiDialogView
 		qm_MarginTop: 1
 		Component.onCompleted:
 		{
-			proxy.initProxy(q268435464,268435464)
+			proxy.initProxy(q268435485,268435485)
 		}
 	}
 	IGuiIOField
@@ -184,8 +184,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539294
-		objId: 486539294
+		id: q486539399
+		objId: 486539399
 		x: 383
 		y: 195
 		width: 97
@@ -216,13 +216,13 @@ IGuiDialogView
 		qm_FontFamilyName: "Tahoma"
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539294,486539294)
+			proxy.initProxy(q486539399,486539399)
 		}
 	}
 	IGuiButton
 	{
-		id: q486539295
-		objId: 486539295
+		id: q486539400
+		objId: 486539400
 		x: 287
 		y: 195
 		width: 97
@@ -233,7 +233,7 @@ IGuiDialogView
 		qm_BorderWidth: 1
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff1c1f30"
-		qm_ImageID: 34
+		qm_ImageID: 39
 		qm_TileTop: 12
 		qm_TileBottom: 12
 		qm_TileRight: 2
@@ -253,13 +253,13 @@ IGuiDialogView
 		qm_FontFamilyName: "Tahoma"
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539295,486539295)
+			proxy.initProxy(q486539400,486539400)
 		}
 	}
 	IGuiGraphicButton
 	{
-		id: q486539296
-		objId: 486539296
+		id: q486539401
+		objId: 486539401
 		x: 446
 		y: 0
 		width: 34
@@ -287,12 +287,12 @@ IGuiDialogView
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff55bfff"
 		qm_Streached :false
-		qm_ButtonImageId :35
+		qm_ButtonImageId :40
 		qm_ContentVisibility : false
 		qm_LanguageIndex :1033
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539296,486539296)
+			proxy.initProxy(q486539401,486539401)
 		}
 	}
 	IGuiQmlRectangle
