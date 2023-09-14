@@ -7,27 +7,19 @@ IGuiPage
 	y: 0
 	width: 800
 	height: 480
-	IGuiButton
+	IGuiGraphicView
 	{
-		id: q486539389
-		objId: 486539389
-		x: 39
-		y: 130
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
+		id: q301989889
+		objId: 301989889
+		x: 0
+		y: 0
+		width: 799
+		height: 479
+		qm_FillRectWidth: 799
+		qm_FillRectHeight: 479
+		imageid: 69
+		imageStreched: true
+		qm_TextColor: "#00000000"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_ValueVarTextOrientation: 0
@@ -35,16 +27,54 @@ IGuiPage
 		qm_MarginRight: 0
 		qm_MarginBottom: 0
 		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_FillColor: "#ffadaeb5"
+		qm_BorderCornerRadius: 0
+		qm_BorderWidth: 0
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff000000"
+		qm_ImageID: 41
+		qm_TileTop: 0
+		qm_TileBottom: 0
+		qm_TileRight: 0
+		qm_TileLeft: 0
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicView
 	{
-		id: q486539388
-		objId: 486539388
+		id: q301989888
+		objId: 301989888
+		x: 0
+		y: 96
+		width: 381
+		height: 363
+		qm_FillRectWidth: 381
+		qm_FillRectHeight: 363
+		imageid: 49
+		imageStreched: true
+		qm_TextColor: "#00000000"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FillColor: "#ffadaeb5"
+		qm_BorderCornerRadius: 0
+		qm_BorderWidth: 0
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff000000"
+		qm_ImageID: 41
+		qm_TileTop: 0
+		qm_TileBottom: 0
+		qm_TileRight: 0
+		qm_TileLeft: 0
+		qm_LanguageIndex :1033
+	}
+	IGuiGraphicButton
+	{
+		id: q486539494
+		objId: 486539494
 		x: 73
 		y: 130
 		width: 32
@@ -55,15 +85,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -71,14 +101,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539387
-		objId: 486539387
+		id: q486539493
+		objId: 486539493
 		x: 107
 		y: 130
 		width: 32
@@ -89,15 +120,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -105,14 +136,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539386
-		objId: 486539386
+		id: q486539492
+		objId: 486539492
 		x: 141
 		y: 130
 		width: 32
@@ -123,15 +155,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -139,14 +171,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539385
-		objId: 486539385
+		id: q486539491
+		objId: 486539491
 		x: 175
 		y: 130
 		width: 32
@@ -157,15 +190,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -173,14 +206,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539384
-		objId: 486539384
+		id: q486539490
+		objId: 486539490
 		x: 209
 		y: 130
 		width: 32
@@ -191,15 +225,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -207,14 +241,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539383
-		objId: 486539383
+		id: q486539489
+		objId: 486539489
 		x: 243
 		y: 130
 		width: 32
@@ -225,15 +260,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -241,14 +276,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539382
-		objId: 486539382
+		id: q486539488
+		objId: 486539488
 		x: 277
 		y: 130
 		width: 32
@@ -259,15 +295,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -275,14 +311,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539381
-		objId: 486539381
+		id: q486539487
+		objId: 486539487
 		x: 311
 		y: 130
 		width: 32
@@ -293,15 +330,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -309,14 +346,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539380
-		objId: 486539380
+		id: q486539486
+		objId: 486539486
 		x: 345
 		y: 130
 		width: 32
@@ -327,15 +365,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -343,14 +381,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539379
-		objId: 486539379
+		id: q486539485
+		objId: 486539485
 		x: 39
 		y: 163
 		width: 32
@@ -361,15 +400,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -377,14 +416,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539378
-		objId: 486539378
+		id: q486539484
+		objId: 486539484
 		x: 73
 		y: 163
 		width: 32
@@ -395,15 +435,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -411,14 +451,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539377
-		objId: 486539377
+		id: q486539483
+		objId: 486539483
 		x: 107
 		y: 163
 		width: 32
@@ -429,15 +470,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -445,14 +486,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539376
-		objId: 486539376
+		id: q486539482
+		objId: 486539482
 		x: 141
 		y: 163
 		width: 32
@@ -463,15 +505,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -479,14 +521,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539375
-		objId: 486539375
+		id: q486539481
+		objId: 486539481
 		x: 175
 		y: 163
 		width: 32
@@ -497,15 +540,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -513,14 +556,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539374
-		objId: 486539374
+		id: q486539480
+		objId: 486539480
 		x: 209
 		y: 163
 		width: 32
@@ -531,15 +575,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -547,14 +591,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539373
-		objId: 486539373
+		id: q486539479
+		objId: 486539479
 		x: 243
 		y: 163
 		width: 32
@@ -565,15 +610,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -581,14 +626,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539372
-		objId: 486539372
+		id: q486539478
+		objId: 486539478
 		x: 277
 		y: 163
 		width: 32
@@ -599,15 +645,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -615,14 +661,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539371
-		objId: 486539371
+		id: q486539477
+		objId: 486539477
 		x: 311
 		y: 163
 		width: 32
@@ -633,15 +680,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -649,14 +696,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539370
-		objId: 486539370
+		id: q486539476
+		objId: 486539476
 		x: 345
 		y: 163
 		width: 32
@@ -667,15 +715,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -683,14 +731,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539369
-		objId: 486539369
+		id: q486539475
+		objId: 486539475
 		x: 39
 		y: 196
 		width: 32
@@ -701,15 +750,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -717,14 +766,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539368
-		objId: 486539368
+		id: q486539474
+		objId: 486539474
 		x: 73
 		y: 196
 		width: 32
@@ -735,15 +785,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -751,14 +801,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539367
-		objId: 486539367
+		id: q486539473
+		objId: 486539473
 		x: 107
 		y: 196
 		width: 32
@@ -769,15 +820,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -785,14 +836,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539366
-		objId: 486539366
+		id: q486539472
+		objId: 486539472
 		x: 141
 		y: 196
 		width: 32
@@ -803,15 +855,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -819,14 +871,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539365
-		objId: 486539365
+		id: q486539471
+		objId: 486539471
 		x: 175
 		y: 196
 		width: 32
@@ -837,15 +890,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -853,14 +906,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539364
-		objId: 486539364
+		id: q486539470
+		objId: 486539470
 		x: 209
 		y: 196
 		width: 32
@@ -871,15 +925,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -887,14 +941,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539363
-		objId: 486539363
+		id: q486539469
+		objId: 486539469
 		x: 243
 		y: 196
 		width: 32
@@ -905,15 +960,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -921,14 +976,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539362
-		objId: 486539362
+		id: q486539468
+		objId: 486539468
 		x: 277
 		y: 196
 		width: 32
@@ -939,15 +995,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -955,14 +1011,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539361
-		objId: 486539361
+		id: q486539467
+		objId: 486539467
 		x: 311
 		y: 196
 		width: 32
@@ -973,15 +1030,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -989,14 +1046,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539360
-		objId: 486539360
+		id: q486539466
+		objId: 486539466
 		x: 345
 		y: 196
 		width: 32
@@ -1007,15 +1065,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1023,14 +1081,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539359
-		objId: 486539359
+		id: q486539465
+		objId: 486539465
 		x: 39
 		y: 229
 		width: 32
@@ -1041,15 +1100,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1057,14 +1116,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539358
-		objId: 486539358
+		id: q486539464
+		objId: 486539464
 		x: 73
 		y: 229
 		width: 32
@@ -1075,15 +1135,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1091,14 +1151,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539357
-		objId: 486539357
+		id: q486539463
+		objId: 486539463
 		x: 107
 		y: 229
 		width: 32
@@ -1109,15 +1170,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1125,14 +1186,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539356
-		objId: 486539356
+		id: q486539462
+		objId: 486539462
 		x: 141
 		y: 229
 		width: 32
@@ -1143,15 +1205,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1159,14 +1221,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539355
-		objId: 486539355
+		id: q486539461
+		objId: 486539461
 		x: 175
 		y: 229
 		width: 32
@@ -1177,15 +1240,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1193,14 +1256,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539354
-		objId: 486539354
+		id: q486539460
+		objId: 486539460
 		x: 209
 		y: 229
 		width: 32
@@ -1211,15 +1275,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1227,14 +1291,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539353
-		objId: 486539353
+		id: q486539459
+		objId: 486539459
 		x: 243
 		y: 229
 		width: 32
@@ -1245,15 +1310,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1261,14 +1326,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539352
-		objId: 486539352
+		id: q486539458
+		objId: 486539458
 		x: 277
 		y: 229
 		width: 32
@@ -1279,15 +1345,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1295,14 +1361,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539351
-		objId: 486539351
+		id: q486539457
+		objId: 486539457
 		x: 311
 		y: 229
 		width: 32
@@ -1313,15 +1380,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1329,14 +1396,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539350
-		objId: 486539350
+		id: q486539456
+		objId: 486539456
 		x: 345
 		y: 229
 		width: 32
@@ -1347,15 +1415,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1363,14 +1431,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539349
-		objId: 486539349
+		id: q486539455
+		objId: 486539455
 		x: 39
 		y: 262
 		width: 32
@@ -1381,15 +1450,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1397,14 +1466,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539348
-		objId: 486539348
+		id: q486539454
+		objId: 486539454
 		x: 73
 		y: 262
 		width: 32
@@ -1415,15 +1485,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1431,14 +1501,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539347
-		objId: 486539347
+		id: q486539453
+		objId: 486539453
 		x: 107
 		y: 262
 		width: 32
@@ -1449,15 +1520,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1465,14 +1536,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539346
-		objId: 486539346
+		id: q486539452
+		objId: 486539452
 		x: 141
 		y: 262
 		width: 32
@@ -1483,15 +1555,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1499,14 +1571,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539345
-		objId: 486539345
+		id: q486539451
+		objId: 486539451
 		x: 175
 		y: 262
 		width: 32
@@ -1517,15 +1590,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1533,14 +1606,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539344
-		objId: 486539344
+		id: q486539450
+		objId: 486539450
 		x: 209
 		y: 262
 		width: 32
@@ -1551,15 +1625,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1567,14 +1641,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539343
-		objId: 486539343
+		id: q486539449
+		objId: 486539449
 		x: 243
 		y: 262
 		width: 32
@@ -1585,15 +1660,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1601,14 +1676,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539342
-		objId: 486539342
+		id: q486539448
+		objId: 486539448
 		x: 277
 		y: 262
 		width: 32
@@ -1619,15 +1695,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1635,14 +1711,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539341
-		objId: 486539341
+		id: q486539447
+		objId: 486539447
 		x: 311
 		y: 262
 		width: 32
@@ -1653,15 +1730,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1669,14 +1746,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539340
-		objId: 486539340
+		id: q486539446
+		objId: 486539446
 		x: 345
 		y: 262
 		width: 32
@@ -1687,15 +1765,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1703,14 +1781,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539339
-		objId: 486539339
+		id: q486539445
+		objId: 486539445
 		x: 39
 		y: 295
 		width: 32
@@ -1721,15 +1800,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1737,14 +1816,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539338
-		objId: 486539338
+		id: q486539444
+		objId: 486539444
 		x: 73
 		y: 295
 		width: 32
@@ -1755,15 +1835,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1771,14 +1851,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539337
-		objId: 486539337
+		id: q486539443
+		objId: 486539443
 		x: 107
 		y: 295
 		width: 32
@@ -1789,15 +1870,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1805,14 +1886,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539336
-		objId: 486539336
+		id: q486539442
+		objId: 486539442
 		x: 141
 		y: 295
 		width: 32
@@ -1823,15 +1905,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1839,14 +1921,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539335
-		objId: 486539335
+		id: q486539441
+		objId: 486539441
 		x: 175
 		y: 295
 		width: 32
@@ -1857,15 +1940,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1873,14 +1956,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539334
-		objId: 486539334
+		id: q486539440
+		objId: 486539440
 		x: 209
 		y: 295
 		width: 32
@@ -1891,15 +1975,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1907,14 +1991,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539333
-		objId: 486539333
+		id: q486539439
+		objId: 486539439
 		x: 243
 		y: 295
 		width: 32
@@ -1925,15 +2010,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1941,14 +2026,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539332
-		objId: 486539332
+		id: q486539438
+		objId: 486539438
 		x: 277
 		y: 295
 		width: 32
@@ -1959,15 +2045,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -1975,14 +2061,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539331
-		objId: 486539331
+		id: q486539437
+		objId: 486539437
 		x: 311
 		y: 295
 		width: 32
@@ -1993,15 +2080,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2009,14 +2096,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539330
-		objId: 486539330
+		id: q486539436
+		objId: 486539436
 		x: 345
 		y: 295
 		width: 32
@@ -2027,15 +2115,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2043,14 +2131,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539329
-		objId: 486539329
+		id: q486539435
+		objId: 486539435
 		x: 39
 		y: 328
 		width: 32
@@ -2061,15 +2150,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2077,14 +2166,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539328
-		objId: 486539328
+		id: q486539434
+		objId: 486539434
 		x: 73
 		y: 328
 		width: 32
@@ -2095,15 +2185,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2111,14 +2201,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539327
-		objId: 486539327
+		id: q486539433
+		objId: 486539433
 		x: 107
 		y: 328
 		width: 32
@@ -2129,15 +2220,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2145,14 +2236,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539326
-		objId: 486539326
+		id: q486539432
+		objId: 486539432
 		x: 141
 		y: 328
 		width: 32
@@ -2163,15 +2255,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2179,14 +2271,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539325
-		objId: 486539325
+		id: q486539431
+		objId: 486539431
 		x: 175
 		y: 328
 		width: 32
@@ -2197,15 +2290,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2213,14 +2306,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539324
-		objId: 486539324
+		id: q486539430
+		objId: 486539430
 		x: 209
 		y: 328
 		width: 32
@@ -2231,15 +2325,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2247,14 +2341,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539323
-		objId: 486539323
+		id: q486539429
+		objId: 486539429
 		x: 243
 		y: 328
 		width: 32
@@ -2265,15 +2360,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2281,14 +2376,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539322
-		objId: 486539322
+		id: q486539428
+		objId: 486539428
 		x: 277
 		y: 328
 		width: 32
@@ -2299,15 +2395,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2315,14 +2411,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539321
-		objId: 486539321
+		id: q486539427
+		objId: 486539427
 		x: 311
 		y: 328
 		width: 32
@@ -2333,15 +2430,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2349,14 +2446,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539320
-		objId: 486539320
+		id: q486539426
+		objId: 486539426
 		x: 345
 		y: 328
 		width: 32
@@ -2367,15 +2465,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2383,14 +2481,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539319
-		objId: 486539319
+		id: q486539425
+		objId: 486539425
 		x: 39
 		y: 361
 		width: 32
@@ -2401,15 +2500,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2417,14 +2516,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539318
-		objId: 486539318
+		id: q486539424
+		objId: 486539424
 		x: 73
 		y: 361
 		width: 32
@@ -2435,15 +2535,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2451,14 +2551,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539317
-		objId: 486539317
+		id: q486539423
+		objId: 486539423
 		x: 107
 		y: 361
 		width: 32
@@ -2469,15 +2570,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2485,14 +2586,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539316
-		objId: 486539316
+		id: q486539422
+		objId: 486539422
 		x: 141
 		y: 361
 		width: 32
@@ -2503,15 +2605,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2519,14 +2621,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539315
-		objId: 486539315
+		id: q486539421
+		objId: 486539421
 		x: 175
 		y: 361
 		width: 32
@@ -2537,15 +2640,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2553,14 +2656,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539314
-		objId: 486539314
+		id: q486539420
+		objId: 486539420
 		x: 209
 		y: 361
 		width: 32
@@ -2571,15 +2675,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2587,14 +2691,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539313
-		objId: 486539313
+		id: q486539419
+		objId: 486539419
 		x: 243
 		y: 361
 		width: 32
@@ -2605,15 +2710,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2621,14 +2726,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539312
-		objId: 486539312
+		id: q486539418
+		objId: 486539418
 		x: 277
 		y: 361
 		width: 32
@@ -2639,15 +2745,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2655,14 +2761,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539311
-		objId: 486539311
+		id: q486539417
+		objId: 486539417
 		x: 311
 		y: 361
 		width: 32
@@ -2673,15 +2780,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2689,48 +2796,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539310
-		objId: 486539310
-		x: 345
-		y: 361
-		width: 32
-		height: 32
-		qm_FillRectWidth: 31
-		qm_FillRectHeight: 31
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 2
-		qm_ValueVarBorder: 1
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
-		qm_TileTop: 15
-		qm_TileBottom: 15
-		qm_TileRight: 5
-		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
-		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 0
-		qm_MarginRight: 0
-		qm_MarginBottom: 0
-		qm_MarginTop: 0
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-	}
-	IGuiButton
-	{
-		id: q486539309
-		objId: 486539309
+		id: q486539415
+		objId: 486539415
 		x: 39
 		y: 394
 		width: 32
@@ -2741,15 +2815,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2757,14 +2831,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539308
-		objId: 486539308
+		id: q486539414
+		objId: 486539414
 		x: 73
 		y: 394
 		width: 32
@@ -2775,15 +2850,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2791,14 +2866,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539307
-		objId: 486539307
+		id: q486539413
+		objId: 486539413
 		x: 107
 		y: 394
 		width: 32
@@ -2809,15 +2885,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2825,14 +2901,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539306
-		objId: 486539306
+		id: q486539412
+		objId: 486539412
 		x: 141
 		y: 394
 		width: 32
@@ -2843,15 +2920,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2859,14 +2936,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539305
-		objId: 486539305
+		id: q486539411
+		objId: 486539411
 		x: 175
 		y: 394
 		width: 32
@@ -2877,15 +2955,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2893,14 +2971,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539304
-		objId: 486539304
+		id: q486539410
+		objId: 486539410
 		x: 209
 		y: 394
 		width: 32
@@ -2911,15 +2990,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2927,14 +3006,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539303
-		objId: 486539303
+		id: q486539409
+		objId: 486539409
 		x: 243
 		y: 394
 		width: 32
@@ -2945,15 +3025,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2961,14 +3041,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539302
-		objId: 486539302
+		id: q486539408
+		objId: 486539408
 		x: 277
 		y: 394
 		width: 32
@@ -2979,15 +3060,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -2995,14 +3076,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539301
-		objId: 486539301
+		id: q486539407
+		objId: 486539407
 		x: 311
 		y: 394
 		width: 32
@@ -3013,15 +3095,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3029,14 +3111,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539300
-		objId: 486539300
+		id: q486539406
+		objId: 486539406
 		x: 345
 		y: 394
 		width: 32
@@ -3047,15 +3130,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3063,14 +3146,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539299
-		objId: 486539299
+		id: q486539405
+		objId: 486539405
 		x: 39
 		y: 427
 		width: 32
@@ -3081,15 +3165,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3097,14 +3181,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539298
-		objId: 486539298
+		id: q486539404
+		objId: 486539404
 		x: 73
 		y: 427
 		width: 32
@@ -3115,15 +3200,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3131,14 +3216,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539297
-		objId: 486539297
+		id: q486539403
+		objId: 486539403
 		x: 107
 		y: 427
 		width: 32
@@ -3149,15 +3235,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3165,14 +3251,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539296
-		objId: 486539296
+		id: q486539402
+		objId: 486539402
 		x: 141
 		y: 427
 		width: 32
@@ -3183,15 +3270,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3199,14 +3286,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539295
-		objId: 486539295
+		id: q486539401
+		objId: 486539401
 		x: 175
 		y: 427
 		width: 32
@@ -3217,15 +3305,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3233,14 +3321,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539294
-		objId: 486539294
+		id: q486539400
+		objId: 486539400
 		x: 209
 		y: 427
 		width: 32
@@ -3251,15 +3340,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3267,14 +3356,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539293
-		objId: 486539293
+		id: q486539399
+		objId: 486539399
 		x: 243
 		y: 427
 		width: 32
@@ -3285,15 +3375,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3301,14 +3391,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539292
-		objId: 486539292
+		id: q486539398
+		objId: 486539398
 		x: 277
 		y: 427
 		width: 32
@@ -3319,15 +3410,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3335,14 +3426,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539291
-		objId: 486539291
+		id: q486539397
+		objId: 486539397
 		x: 311
 		y: 427
 		width: 32
@@ -3353,15 +3445,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3369,14 +3461,15 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539290
-		objId: 486539290
+		id: q486539396
+		objId: 486539396
 		x: 345
 		y: 427
 		width: 32
@@ -3387,15 +3480,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 42
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -3403,688 +3496,52 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiTextField
+	IGuiGraphicButton
 	{
-		id: q268435483
-		objId: 268435483
-		x: 15
-		y: 130
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435482
-		objId: 268435482
-		x: 15
-		y: 163
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435481
-		objId: 268435481
-		x: 15
-		y: 196
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435480
-		objId: 268435480
-		x: 15
-		y: 229
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435479
-		objId: 268435479
-		x: 15
-		y: 262
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435478
-		objId: 268435478
-		x: 15
-		y: 295
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435477
-		objId: 268435477
-		x: 15
-		y: 328
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435476
-		objId: 268435476
-		x: 15
+		id: q486539416
+		objId: 486539416
+		x: 345
 		y: 361
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		width: 32
+		height: 32
+		qm_FillRectWidth: 31
+		qm_FillRectHeight: 31
 		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ImageID: 42
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435475
-		objId: 268435475
-		x: 15
-		y: 394
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435474
-		objId: 268435474
-		x: 15
-		y: 427
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435473
-		objId: 268435473
-		x: 46
-		y: 101
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435472
-		objId: 268435472
-		x: 80
-		y: 101
-		width: 16
-		height: 23
-		qm_FillRectWidth: 16
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435471
-		objId: 268435471
-		x: 114
-		y: 101
-		width: 16
-		height: 23
-		qm_FillRectWidth: 16
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435470
-		objId: 268435470
-		x: 148
-		y: 101
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435469
-		objId: 268435469
-		x: 182
-		y: 101
-		width: 15
-		height: 23
-		qm_FillRectWidth: 15
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435468
-		objId: 268435468
-		x: 216
-		y: 101
-		width: 14
-		height: 23
-		qm_FillRectWidth: 14
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435467
-		objId: 268435467
-		x: 250
-		y: 101
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435466
-		objId: 268435466
-		x: 284
-		y: 101
-		width: 17
-		height: 23
-		qm_FillRectWidth: 17
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435465
-		objId: 268435465
-		x: 318
-		y: 101
-		width: 12
-		height: 23
-		qm_FillRectWidth: 12
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435464
-		objId: 268435464
-		x: 352
-		y: 101
-		width: 13
-		height: 23
-		qm_FillRectWidth: 13
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
-	}
-	IGuiTextField
-	{
-		id: q268435463
-		objId: 268435463
-		x: 296
-		y: 36
-		width: 170
-		height: 23
-		qm_FillRectWidth: 170
-		qm_FillRectHeight: 23
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 0
-		qm_ValueVarBorder: 3
-		qm_BorderColor: "#ff424952"
-		qm_ImageID: 21
-		qm_TileTop: 0
-		qm_TileBottom: 0
-		qm_TileRight: 0
-		qm_TileLeft: 0
-		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_ValueVarTextOrientation: 0
-		qm_MarginLeft: 3
-		qm_MarginRight: 2
-		qm_MarginBottom: 2
-		qm_MarginTop: 2
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
 	IGuiSwitch
 	{
 		id: q352321537
 		objId: 352321537
-		x: 624
-		y: 243
+		x: 643
+		y: 281
 		width: 131
 		height: 41
 		qm_FillRectWidth: 130
@@ -4093,12 +3550,12 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 17
+		qm_ImageID: 56
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
+		qm_FillColor: "#ff102084"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -4113,12 +3570,12 @@ IGuiPage
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539289
-		objId: 486539289
-		x: 423
-		y: 131
+		id: q486539395
+		objId: 486539395
+		x: 417
+		y: 142
 		width: 134
 		height: 32
 		qm_FillRectWidth: 133
@@ -4127,15 +3584,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 45
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -4143,33 +3600,34 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :63
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539288
-		objId: 486539288
-		x: 424
-		y: 171
-		width: 100
-		height: 32
-		qm_FillRectWidth: 99
-		qm_FillRectHeight: 31
+		id: q486539394
+		objId: 486539394
+		x: 417
+		y: 181
+		width: 103
+		height: 37
+		qm_FillRectWidth: 102
+		qm_FillRectHeight: 36
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 45
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -4177,16 +3635,17 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :43
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539287
-		objId: 486539287
-		x: 424
-		y: 213
+		id: q486539393
+		objId: 486539393
+		x: 417
+		y: 233
 		width: 66
 		height: 32
 		qm_FillRectWidth: 65
@@ -4195,15 +3654,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 45
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -4211,16 +3670,17 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :44
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
-	IGuiButton
+	IGuiGraphicButton
 	{
-		id: q486539286
-		objId: 486539286
-		x: 424
-		y: 252
+		id: q486539392
+		objId: 486539392
+		x: 417
+		y: 281
 		width: 32
 		height: 32
 		qm_FillRectWidth: 31
@@ -4229,15 +3689,15 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 45
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
 		qm_ValueVarTextOrientation: 0
 		qm_MarginLeft: 0
 		qm_MarginRight: 0
@@ -4245,16 +3705,17 @@ IGuiPage
 		qm_MarginTop: 0
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
-		qm_FontSize: 12
-		qm_FontFamilyName: "Tahoma"
-		qm_FontBold: true
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
 	IGuiButton
 	{
-		id: q486539285
-		objId: 486539285
-		x: 591
-		y: 131
+		id: q486539391
+		objId: 486539391
+		x: 611
+		y: 135
 		width: 164
 		height: 46
 		qm_FillRectWidth: 163
@@ -4263,12 +3724,12 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 20
+		qm_ImageID: 55
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
+		qm_FillColor: "#ff102084"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -4287,8 +3748,8 @@ IGuiPage
 	{
 		id: q352321536
 		objId: 352321536
-		x: 575
-		y: 415
+		x: 597
+		y: 403
 		width: 178
 		height: 44
 		qm_FillRectWidth: 177
@@ -4297,12 +3758,12 @@ IGuiPage
 		qm_BorderWidth: 2
 		qm_ValueVarBorder: 1
 		qm_BorderColor: "#ff424952"
-		qm_ImageID: 17
+		qm_ImageID: 56
 		qm_TileTop: 15
 		qm_TileBottom: 15
 		qm_TileRight: 5
 		qm_TileLeft: 5
-		qm_FillColor: "#ff636573"
+		qm_FillColor: "#ff102084"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -4316,5 +3777,177 @@ IGuiPage
 		qm_FontSize: 12
 		qm_FontFamilyName: "Tahoma"
 		qm_FontBold: true
+	}
+	IGuiTextField
+	{
+		id: q268435466
+		objId: 268435466
+		x: 296
+		y: 36
+		width: 232
+		height: 23
+		qm_FillRectWidth: 232
+		qm_FillRectHeight: 23
+		qm_FontSize: 12
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 0
+		qm_ValueVarBorder: 3
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 21
+		qm_TileTop: 0
+		qm_TileBottom: 0
+		qm_TileRight: 0
+		qm_TileLeft: 0
+		qm_Transparent : true 
+		qm_TextColor: "#ff000000"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 3
+		qm_MarginRight: 2
+		qm_MarginBottom: 2
+		qm_MarginTop: 2
+	}
+	IGuiGraphicButton
+	{
+		id: q486539390
+		objId: 486539390
+		x: 742
+		y: 16
+		width: 33
+		height: 20
+		qm_FillRectWidth: 32
+		qm_FillRectHeight: 19
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 18
+		qm_TileTop: 10
+		qm_TileBottom: 10
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_Streached :true
+		qm_ButtonImageId :20
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
+	}
+	IGuiGraphicButton
+	{
+		id: q486539389
+		objId: 486539389
+		x: 742
+		y: 36
+		width: 33
+		height: 20
+		qm_FillRectWidth: 32
+		qm_FillRectHeight: 19
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 18
+		qm_TileTop: 10
+		qm_TileBottom: 10
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_Streached :true
+		qm_ButtonImageId :19
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
+	}
+	IGuiGraphicButton
+	{
+		id: q486539388
+		objId: 486539388
+		x: 741
+		y: 59
+		width: 33
+		height: 20
+		qm_FillRectWidth: 32
+		qm_FillRectHeight: 19
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 18
+		qm_TileTop: 10
+		qm_TileBottom: 10
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_Streached :true
+		qm_ButtonImageId :17
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
+	}
+	IGuiGraphicButton
+	{
+		id: q486539495
+		objId: 486539495
+		x: 39
+		y: 131
+		width: 32
+		height: 32
+		qm_FillRectWidth: 31
+		qm_FillRectHeight: 31
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ValueVarBorder: 1
+		qm_BorderColor: "#ff424952"
+		qm_ImageID: 53
+		qm_TileTop: 5
+		qm_TileBottom: 5
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_Streached :true
+		qm_ButtonImageId :80
+		qm_ContentVisibility : false
+		qm_LanguageIndex :1033
 	}
 }

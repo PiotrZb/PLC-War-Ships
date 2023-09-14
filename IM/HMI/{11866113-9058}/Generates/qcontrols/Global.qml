@@ -77,8 +77,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539390
-			objId: 486539390
+			id: q486539500
+			objId: 486539500
 			x: 666
 			y: 0
 			width: 34
@@ -111,7 +111,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539390,486539390)
+				proxy.initProxy(q486539500,486539500)
 			}
 		}
 		IGuiAlarmView
@@ -148,8 +148,8 @@ Item
 				qm_leftValueVarBorder: 1
 				qm_leftBorderColor: "#ff9c9aa5"
 				qm_leftImageID: 26
-				qm_leftTileTop: 14
-				qm_leftTileBottom: 15
+				qm_leftTileTop: 10
+				qm_leftTileBottom: 10
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
 				qm_middleBorderCornerRadius: 2
@@ -157,8 +157,8 @@ Item
 				qm_middleValueVarBorder: 1
 				qm_middleBorderColor: "#ff9c9aa5"
 				qm_middleImageID: 27
-				qm_middleTileTop: 14
-				qm_middleTileBottom: 15
+				qm_middleTileTop: 10
+				qm_middleTileBottom: 10
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
 				qm_rightBorderCornerRadius: 2
@@ -166,8 +166,8 @@ Item
 				qm_rightValueVarBorder: 1
 				qm_rightBorderColor: "#ff9c9aa5"
 				qm_rightImageID: 28
-				qm_rightTileTop: 14
-				qm_rightTileBottom: 15
+				qm_rightTileTop: 10
+				qm_rightTileBottom: 10
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				qm_tableBackColor: "#ffffffff"
@@ -210,8 +210,8 @@ Item
 				qm_gridLineWidth: 0
 				qm_gridLineColor: "#ffffffff"
 				qm_noOfColumns: 5
-				qm_tableRowHeight: 27
-				qm_tableHeaderHeight: 27
+				qm_tableRowHeight: 18
+				qm_tableHeaderHeight: 18
 				qm_hasHeader: true
 				qm_hasGridLines: false
 				qm_hasBorder: false
@@ -284,8 +284,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539391
-				objId: 486539391
+				id: q486539501
+				objId: 486539501
 				x: 2
 				y: 293
 				width: 50
@@ -318,13 +318,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539391,486539391)
+					proxy.initProxy(q486539501,486539501)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539392
-				objId: 486539392
+				id: q486539502
+				objId: 486539502
 				x: 646
 				y: 293
 				width: 50
@@ -357,7 +357,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539392,486539392)
+					proxy.initProxy(q486539502,486539502)
 				}
 			}
 			Component.onCompleted:
@@ -409,8 +409,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539393
-			objId: 486539393
+			id: q486539503
+			objId: 486539503
 			x: 666
 			y: 0
 			width: 34
@@ -443,7 +443,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539393,486539393)
+				proxy.initProxy(q486539503,486539503)
 			}
 		}
 		IGuiAlarmView
@@ -480,8 +480,8 @@ Item
 				qm_leftValueVarBorder: 1
 				qm_leftBorderColor: "#ff9c9aa5"
 				qm_leftImageID: 26
-				qm_leftTileTop: 14
-				qm_leftTileBottom: 15
+				qm_leftTileTop: 10
+				qm_leftTileBottom: 10
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
 				qm_middleBorderCornerRadius: 2
@@ -489,8 +489,8 @@ Item
 				qm_middleValueVarBorder: 1
 				qm_middleBorderColor: "#ff9c9aa5"
 				qm_middleImageID: 27
-				qm_middleTileTop: 14
-				qm_middleTileBottom: 15
+				qm_middleTileTop: 10
+				qm_middleTileBottom: 10
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
 				qm_rightBorderCornerRadius: 2
@@ -498,8 +498,8 @@ Item
 				qm_rightValueVarBorder: 1
 				qm_rightBorderColor: "#ff9c9aa5"
 				qm_rightImageID: 28
-				qm_rightTileTop: 14
-				qm_rightTileBottom: 15
+				qm_rightTileTop: 10
+				qm_rightTileBottom: 10
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				qm_tableBackColor: "#ffffffff"
@@ -542,8 +542,8 @@ Item
 				qm_gridLineWidth: 0
 				qm_gridLineColor: "#ffffffff"
 				qm_noOfColumns: 5
-				qm_tableRowHeight: 27
-				qm_tableHeaderHeight: 27
+				qm_tableRowHeight: 18
+				qm_tableHeaderHeight: 18
 				qm_hasHeader: true
 				qm_hasGridLines: false
 				qm_hasBorder: false
@@ -616,8 +616,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539394
-				objId: 486539394
+				id: q486539504
+				objId: 486539504
 				x: 2
 				y: 293
 				width: 50
@@ -650,13 +650,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539394,486539394)
+					proxy.initProxy(q486539504,486539504)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539395
-				objId: 486539395
+				id: q486539505
+				objId: 486539505
 				x: 646
 				y: 293
 				width: 50
@@ -689,7 +689,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539395,486539395)
+					proxy.initProxy(q486539505,486539505)
 				}
 			}
 			Component.onCompleted:
@@ -741,8 +741,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539396
-			objId: 486539396
+			id: q486539506
+			objId: 486539506
 			x: 666
 			y: 0
 			width: 34
@@ -775,7 +775,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539396,486539396)
+				proxy.initProxy(q486539506,486539506)
 			}
 		}
 		IGuiAlarmView
@@ -812,8 +812,8 @@ Item
 				qm_leftValueVarBorder: 1
 				qm_leftBorderColor: "#ff9c9aa5"
 				qm_leftImageID: 26
-				qm_leftTileTop: 14
-				qm_leftTileBottom: 15
+				qm_leftTileTop: 10
+				qm_leftTileBottom: 10
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
 				qm_middleBorderCornerRadius: 2
@@ -821,8 +821,8 @@ Item
 				qm_middleValueVarBorder: 1
 				qm_middleBorderColor: "#ff9c9aa5"
 				qm_middleImageID: 27
-				qm_middleTileTop: 14
-				qm_middleTileBottom: 15
+				qm_middleTileTop: 10
+				qm_middleTileBottom: 10
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
 				qm_rightBorderCornerRadius: 2
@@ -830,8 +830,8 @@ Item
 				qm_rightValueVarBorder: 1
 				qm_rightBorderColor: "#ff9c9aa5"
 				qm_rightImageID: 28
-				qm_rightTileTop: 14
-				qm_rightTileBottom: 15
+				qm_rightTileTop: 10
+				qm_rightTileBottom: 10
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				qm_tableBackColor: "#ffffffff"
@@ -874,8 +874,8 @@ Item
 				qm_gridLineWidth: 0
 				qm_gridLineColor: "#ffffffff"
 				qm_noOfColumns: 5
-				qm_tableRowHeight: 27
-				qm_tableHeaderHeight: 27
+				qm_tableRowHeight: 18
+				qm_tableHeaderHeight: 18
 				qm_hasHeader: true
 				qm_hasGridLines: false
 				qm_hasBorder: false
@@ -948,8 +948,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539397
-				objId: 486539397
+				id: q486539507
+				objId: 486539507
 				x: 2
 				y: 293
 				width: 50
@@ -982,13 +982,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539397,486539397)
+					proxy.initProxy(q486539507,486539507)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539398
-				objId: 486539398
+				id: q486539508
+				objId: 486539508
 				x: 646
 				y: 293
 				width: 50
@@ -1021,7 +1021,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539398,486539398)
+					proxy.initProxy(q486539508,486539508)
 				}
 			}
 			Component.onCompleted:

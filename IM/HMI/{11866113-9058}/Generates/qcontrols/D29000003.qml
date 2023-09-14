@@ -69,7 +69,7 @@ IGuiDialogView
 		qm_FontSize: 8
 		qm_FontFamilyName: "Tahoma"
 		qm_GraphicImageId : 6 
-		qm_tableRowHeight: 19
+		qm_tableRowHeight: 13
 		qm_IsDownButtonVisible: true
 		qm_SymIOType: 2
 		qm_NoOfVisibleRows:4

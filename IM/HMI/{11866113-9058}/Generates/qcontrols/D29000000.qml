@@ -38,8 +38,8 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435484
-		objId: 268435484
+		id: q268435469
+		objId: 268435469
 		x: 92
 		y: 103
 		width: 100
@@ -68,7 +68,7 @@ IGuiDialogView
 		qm_MarginTop: 1
 		Component.onCompleted:
 		{
-			proxy.initProxy(q268435484,268435484)
+			proxy.initProxy(q268435469,268435469)
 		}
 	}
 	IGuiIOField
@@ -111,8 +111,8 @@ IGuiDialogView
 	}
 	IGuiTextField
 	{
-		id: q268435485
-		objId: 268435485
+		id: q268435470
+		objId: 268435470
 		x: 92
 		y: 137
 		width: 100
@@ -141,7 +141,7 @@ IGuiDialogView
 		qm_MarginTop: 1
 		Component.onCompleted:
 		{
-			proxy.initProxy(q268435485,268435485)
+			proxy.initProxy(q268435470,268435470)
 		}
 	}
 	IGuiIOField
@@ -184,8 +184,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539399
-		objId: 486539399
+		id: q486539509
+		objId: 486539509
 		x: 383
 		y: 195
 		width: 97
@@ -216,13 +216,13 @@ IGuiDialogView
 		qm_FontFamilyName: "Tahoma"
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539399,486539399)
+			proxy.initProxy(q486539509,486539509)
 		}
 	}
 	IGuiButton
 	{
-		id: q486539400
-		objId: 486539400
+		id: q486539510
+		objId: 486539510
 		x: 287
 		y: 195
 		width: 97
@@ -253,13 +253,13 @@ IGuiDialogView
 		qm_FontFamilyName: "Tahoma"
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539400,486539400)
+			proxy.initProxy(q486539510,486539510)
 		}
 	}
 	IGuiGraphicButton
 	{
-		id: q486539401
-		objId: 486539401
+		id: q486539511
+		objId: 486539511
 		x: 446
 		y: 0
 		width: 34
@@ -292,13 +292,13 @@ IGuiDialogView
 		qm_LanguageIndex :1033
 		Component.onCompleted:
 		{
-			proxy.initProxy(q486539401,486539401)
+			proxy.initProxy(q486539511,486539511)
 		}
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088647
-		objId: 671088647
+		id: q671088649
+		objId: 671088649
 		qm_Height: 34
 		qm_Width: 478
 		qm_BorderWidth: 0
@@ -306,7 +306,7 @@ IGuiDialogView
 		qm_FillColor: "#ff3e414f"
 		Component.onCompleted:
 		{
-			proxy.initProxy(q671088647,671088647)
+			proxy.initProxy(q671088649,671088649)
 		}
 	}
 	Component.onCompleted:

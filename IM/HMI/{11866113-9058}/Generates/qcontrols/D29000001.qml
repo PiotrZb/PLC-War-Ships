@@ -52,8 +52,8 @@ IGuiDialogView
 		qm_tableMarginBottom: 1
 		qm_tableMarginTop: 1
 		qm_noOfColumns: 1
-		qm_tableRowHeight: 19
-		qm_tableHeaderHeight: 19
+		qm_tableRowHeight: 13
+		qm_tableHeaderHeight: 13
 		qm_hasHeader: false
 		qm_hasGridLines: false
 		qm_hasBorder: false
