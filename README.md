@@ -30,7 +30,11 @@ The project was created in TIA Portal using `LD` and `ST` languages. <br />
 
 ## Contributors 🤝
 
-- [@BartekBorak](https://github.com/BartekBorak)
+<div style="display: flex;">
+    <a href="https://github.com/BartekBorak"> 
+      <img src="https://avatars.githubusercontent.com/u/133032379?v=4" height="auto" width="100" style="border-radius:50%; margin: 10px"> 
+    </a> 
+</div>
 
 ## License 📄
 
